@@ -1,7 +1,7 @@
 {
   "versionCode": 4,
   "versionName": "2.0.2",
-  "apkUrl": "http://app.tdv.dpdns.org/tdv-online-2.0.2.apk",
-  "changelog": ["Testing updates"],
+  "apkUrl": "https://github.com/chautungvu/apps-release/raw/refs/heads/main/app.apk",
+  "changelog": ["Fix UDP/UDPXY playback, well maybe, and also I hate Claude for the rate limits"],
   "sha256": "optional 64-character checksum"
 }
