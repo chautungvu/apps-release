@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.0.2",
-  "apkUrl": "https://github.com/chautungvu/apps-release/raw/refs/heads/main/app.apk",
-  "changelog": ["Fix UDP/UDPXY playback, well maybe, and also I hate Claude for the rate limits"],
+  "versionCode": 5,
+  "versionName": "2.0.5",
+  "apkUrl": "https://github.com/chautungvu/apps-release/raw/refs/heads/main/test.apk",
+  "changelog": ["FINALLY, 1080i works with MTK/Amlogic chipsets, there should be no freeze for now."],
   "sha256": "optional 64-character checksum"
 }
