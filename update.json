@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "2.0.5",
-  "apkUrl": "https://github.com/chautungvu/apps-release/raw/refs/heads/main/test.apk",
-  "changelog": ["FINALLY, 1080i works with MTK/Amlogic chipsets, there should be no freeze for now."],
+  "versionCode": 6,
+  "versionName": "2.0.6",
+  "apkUrl": "https://github.com/chautungvu/apps-release/raw/refs/heads/main/build2.6.apk",
+  "changelog": ["Fix Interlaced streams, if device is shit, please change player to FFMpeg software decoding in Settings/System."],
   "sha256": "optional 64-character checksum"
 }
